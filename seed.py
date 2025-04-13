@@ -2,7 +2,7 @@ from app import app
 from models import db, Episode, Guest, Appearance
 
 with app.app_context():
-    print("🌱 Seeding database...")
+    print("Seeding database...")
 
     
     Appearance.query.delete()

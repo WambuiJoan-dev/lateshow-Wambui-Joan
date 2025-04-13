@@ -34,8 +34,8 @@ It uses Flask, SQLAlchemy for ORM, and Flask-Migrate for database migrations.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/lateshow-firstname-lastname.git
-cd lateshow-firstname-lastname
+git clone https://github.com/WambuiJoan-dev/lateshow-Wambui-Joan.git
+cd lateshow-Wambui-Joan
 ```
 
 ### 2. Create & Activate a Virtual Environment
@@ -48,7 +48,7 @@ pipenv shell
 ### 3. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install 
 ```
 
 ### 4. Set Up the Database
@@ -131,7 +131,7 @@ Visit `http://localhost:5555` to access the API.
 
 ## 👩‍💻 Author
 
-- Wambui [GitHub](https://github.com/your-username)
+- Wambui [GitHub](https://github.com/WambuiJoan-dev)
 
 ---
 
